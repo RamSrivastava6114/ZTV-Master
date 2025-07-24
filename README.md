@@ -1,9 +1,15 @@
 # ZVT-MASTER
 
-![PyPI Version](https://img.shields.io/pypi/v/zvt-master?style=for-the-badge&color=2F4F4F)
-![Build Status](https://img.shields.io/github/actions/workflow/status/RamSrivastava6114/ZTV-Master/python-package.yml?branch=main&style=for-the-badge&color=1E4F4F)
-![Coverage](https://img.shields.io/codecov/c/github/RamSrivastava6114/ZTV-Master?style=for-the-badge&color=124F4F)
-![License](https://img.shields.io/github/license/RamSrivastava6114/ZTV-Master?style=for-the-badge&color=104F4F)
+<!-- Additional Shields for ZVT-MASTER -->
+
+![Downloads](https://img.shields.io/pypi/dm/zvt-master?style=for-the-badge&color=2563EB)
+![Python Versions](https://img.shields.io/pypi/pyversions/zvt-master?style=for-the-badge&color=306998)
+![GitHub Stars](https://img.shields.io/github/stars/RamSrivastava6114/ZTV-Master?style=for-the-badge&color=F1C40F)
+![GitHub Forks](https://img.shields.io/github/forks/RamSrivastava6114/ZTV-Master?style=for-the-badge&color=7DCEA0)
+![Open Issues](https://img.shields.io/github/issues/RamSrivastava6114/ZTV-Master?style=for-the-badge&color=E74C3C)
+![Contributors](https://img.shields.io/github/contributors/RamSrivastava6114/ZTV-Master?style=for-the-badge&color=9B59B6)
+![Latest Commit](https://img.shields.io/github/last-commit/RamSrivastava6114/ZTV-Master?style=for-the-badge&color=16A085)
+
 
 > **ZVT-MASTER** is a modular Python-based backtesting framework for analyzing trading strategies on time-series financial data.
 
