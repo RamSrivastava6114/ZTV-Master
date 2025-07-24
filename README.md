@@ -1,8 +1,6 @@
 # ZVT-MASTER
 
-<!-- Additional Shields for ZVT-MASTER -->
 
-![Downloads](https://img.shields.io/pypi/dm/zvt-master?style=for-the-badge&color=2563EB)
 ![Python Versions](https://img.shields.io/pypi/pyversions/zvt-master?style=for-the-badge&color=306998)
 ![GitHub Stars](https://img.shields.io/github/stars/RamSrivastava6114/ZTV-Master?style=for-the-badge&color=F1C40F)
 ![GitHub Forks](https://img.shields.io/github/forks/RamSrivastava6114/ZTV-Master?style=for-the-badge&color=7DCEA0)
