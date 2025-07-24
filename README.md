@@ -79,18 +79,18 @@ flowchart TD
 
 ### Installation
 
-# Clone the repository
+### Clone the repository
 ```bash
 git clone https://github.com/yourusername/ZVT-MASTER.git
 cd ZVT-MASTER
 ```
-# Create a virtual environment
+### Create a virtual environment
 ```bash
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 ```
 
-# Install dependencies
+### Install dependencies
 ```bash
 pip install -r requirements.txt
 pip install .
@@ -143,22 +143,22 @@ ZVT-MASTER/
 └── setup.py                 → Setup script
 ```
 
-### To Contribute
+## To Contribute
 
 
-# Fork the repo
+### Fork the repo
 ```bash
 git clone https://github.com/yourusername/ZVT-MASTER.git
 ```
-# Create a feature branch
+### Create a feature branch
 ```bash
 git checkout -b feature/my-feature
 ```
-# Commit your changes
+### Commit your changes
 ```bash
 git commit -m "feat: Add my feature"
 ```
-# Push and open a PR
+### Push and open a PR
 ```bash
 git push origin feature/my-feature
 ```
